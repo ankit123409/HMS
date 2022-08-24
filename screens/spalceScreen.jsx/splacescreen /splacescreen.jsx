@@ -12,8 +12,8 @@ const Splacescreen=({navigation})=>{
 
     
     return(
-        <View>
-            <Text>hello from splcae </Text>
+        <View style={{flex:1,justifyContent:"center",alignItems:"center",backgroundColor:"#446BAD"}}>
+            <Text  style={{color:"white"}}>HOSPITALMANGE </Text>
         </View>
     )
 }
